@@ -1,0 +1,149 @@
+
+body{
+    width: 1170px;
+    margin: auto;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    padding-top:18%;}
+    
+
+    h1{
+        font-weight: 50px;
+        padding-top:-30%;
+        margin-top: initial;
+        
+    }
+
+.pink-color{
+    color: rgb(236, 76, 122);
+    font-size: 55px;
+    font-family:sans-serif;
+
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left:2%;
+}
+.half-width img{
+    
+    width:100%;
+}
+.first-section{
+    background-image: url("images/header-bg1.png");
+    background-repeat: no-repeat;}
+    section{
+        height: 650px;
+        page-break-inside:150px;}
+
+p{  font-family: sans-serif;
+    color:dimgray;
+}
+
+.link-button{
+        text-decoration: none;
+        background-image: linear-gradient(palevioletred,rgb(228, 40, 165));
+        padding: 14px 28px;
+        margin-top:40px;
+        border-radius: 7px;
+        color:white;
+        font-family:'Roboto', sans-serif ;
+        font-size: 18px;
+        }
+ 
+        .second-section{
+            
+           background-image: url("images/biography-bg.png");
+           background-repeat: no-repeat;
+         }
+    #content {
+            padding: 100px 0px 0px 100px;
+    }
+
+    .work{
+        text-align: center;
+        font-family: "Roboto";
+        font-size: 50px;
+        padding-bottom: 10px;
+
+
+    }
+
+    .one-third {
+
+        float: left;
+        width: 30%;
+        padding: 10px;
+        
+
+    }
+    .latestwork{
+        background-image: url("images/latest-work-bg.png");
+        
+    }
+    .client-review{
+        background-image: url("images/footer-bg.png");
+        
+        background-repeat: no-repeat;
+
+        
+    }
+    .client-review h3{
+        text-align: center;
+        color:rgb(22, 22, 22);
+        font-family: "Roboto";
+        font-size: 50px;
+        padding: 20px 10px 10px 20px;
+        
+        
+       
+
+    }
+    .text{
+        text-align: center;
+    }
+    .email{
+        color:white;
+        background-image: linear-gradient(rgb(248, 130, 169),rgb(228, 40, 165));
+        padding:50px 70px;
+        margin: 90px 160px;
+        border-radius: 15px;
+    }
+
+    #myemail{
+        font-size: 40px;
+        font-weight: bold;
+        color:white;
+    }
+    footer{
+        
+        margin-top: 400px;
+        padding: 20px;
+        text-align: center;
+        
+        
+    }
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;}
+        .fa:hover {
+            opacity: 0.7;}
+
+    .fa-facebook {
+                background: #3B5998;
+                color: white;}
+    .fa-twitter {
+                    background: #55ACEE;
+                    color: white;
+                  }
+    .fa-instagram {
+                    background: rgb(224, 38, 38);
+                    color: white;
+                  }
